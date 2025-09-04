@@ -19,15 +19,26 @@
 ---
 
 ### 📊 GitHub Stats
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elgamlwork&show_icons=true&theme=tokyonight)
+![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elgamlwork&show_icons=true&theme=tokyonight&include_orgs=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elgamlwork&layout=compact&theme=tokyonight)
 
 ---
 
+### 🔥 Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elgamlwork&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+### 📰 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📫 Connect With Me
 - GitHub: [elgamlwork](https://github.com/elgamlwork)  
-- LinkedIn: [linkedin](https://www.linkedin.com/in/elgaml-work/)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/elgaml-work/)  
 - Email: hello@elgaml.dev  
 
 ---
