@@ -27,8 +27,8 @@
 
 ### 📫 Connect With Me
 - GitHub: [elgamlwork](https://github.com/elgamlwork)  
-- LinkedIn: *(add your LinkedIn link here if you have one)*  
-- Email: *(add your email if you want recruiters to reach out)*  
+- LinkedIn: [linkedin](https://www.linkedin.com/in/elgaml-work/)
+- Email: hello@elgaml.dev  
 
 ---
 
