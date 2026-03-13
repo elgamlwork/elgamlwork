@@ -101,11 +101,9 @@ I specialize in **React, Next.js, and React Native**, focusing on performance, m
 
 # 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=elgamlwork&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=elgamlwork&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
