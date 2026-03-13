@@ -1,84 +1,104 @@
+<div align="center">
+
 # Hi there, I'm Mostafa Elgaml 👋
 
-💻 **Frontend Developer** passionate about building modern, fast, and accessible web experiences.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean%2C+modern+web+experiences;Passionate+about+UI%2FUX+and+performance)](https://git.io/typing-svg)
 
-I enjoy turning ideas into elegant user interfaces and creating products that are both **beautiful and functional**.
+![](https://komarev.com/ghpvc/?username=elgamlwork&label=Profile%20Views&color=0ea5e9&style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎨 Focused on **clean UI, accessibility, and responsive design**
-- ⚛️ Specialized in **React & Next.js development**
-- 🧠 Always learning and exploring **modern frontend technologies**
-- 🛠️ Passionate about **performance optimization and UX**
-- 🌍 Open to **remote opportunities and collaborations**
+Frontend Developer focused on building **modern, responsive, and accessible web applications**.  
+I enjoy transforming ideas into polished digital experiences with clean code, strong UI/UX, and performance in mind.
+
+- 🎨 Passionate about crafting **clean and user-friendly interfaces**
+- ⚡ Specialized in **React, Next.js, and modern JavaScript/TypeScript**
+- 📱 Building **responsive and accessible** web experiences
+- 🧠 Continuously learning and exploring new frontend technologies
+- 🤝 Open to **collaboration, freelance work, and remote opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+<div align="center">
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,git,github,vscode,figma" />
 
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=elgamlwork&show_icons=true&theme=tokyonight&include_orgs=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgamlwork&layout=compact&theme=tokyonight"/>
-
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elgamlwork&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgamlwork&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=elgamlwork&theme=tokyonight&date_format=j%20M%5B%20Y%5D"/>
-
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elgamlwork&theme=tokyonight&hide_border=false" />
+</div>
 
 ---
 
-## 📰 Recent GitHub Activity
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elgamlwork&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elgamlwork&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 📰 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
+## 💭 Developer Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/elgaml-work  
-- 🐙 **GitHub:** https://github.com/elgamlwork  
-- ✉️ **Email:** hello@elgaml.dev  
+- **GitHub:** [github.com/elgamlwork](https://github.com/elgamlwork)
+- **LinkedIn:** [linkedin.com/in/elgaml-work](https://www.linkedin.com/in/elgaml-work/)
+- **Email:** [hello@elgaml.dev](mailto:hello@elgaml.dev)
 
 ---
 
 ## ✨ Philosophy
 
-> “Code is like art — it should be simple, elegant, and useful.”
+> **"Code is like art — it should be simple, elegant, and useful."**
 
 ---
 
-⭐ If you like my work, consider following me or starring my repositories.
+<div align="center">
+
+### Thanks for visiting my profile 💙
+
+⭐ **Feel free to explore my repositories and connect with me**
+
+</div>
